@@ -155,3 +155,5 @@ Sources:
 16. https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw/about
 17. https://github.com/nicknochnack/Actio...
  
+Application use
+	To use the ASL translator clone the git repo at the top of the page. After install the all the previously mentioned libraries. In the file ASL_AI.ipynb run the last block of code. Unblock your webcam if not already done so. Press ‘q’ to quit the application, ‘c’ to capture the image and add it to the sentence, ‘s’ to add a space, and ‘d’ to delete a character.
