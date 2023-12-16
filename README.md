@@ -14,6 +14,7 @@ mediaPipe(mp): used for hand tracking and landmark detection
 numpy(np): employed for numerical operations and data handling 
 OS: used for file and directory operation
 scikit-learn: Utilized for data preprocessing and splitting 
+tensorflow and keras for model trainig 
 
 
 3. Intitializtaion 
